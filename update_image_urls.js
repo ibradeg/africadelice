@@ -1,0 +1,98 @@
+// Google Drive ID to GitHub Pages URL mapping for Africa Delice images
+const imageMapping = {
+  "1_rGN3sCjcOdl1F4p45O998spi15WU2jo": "https://ibradeg.github.io/africadelice/img/img001.jpg",
+  "1mG8saEOkKnkQADwe0f_8ychQb42NjvFn": "https://ibradeg.github.io/africadelice/img/img002.jpg",
+  "1gXz2LlMcAN39ymnJZhKcuG9jGYLTeZXd": "https://ibradeg.github.io/africadelice/img/img003.jpg",
+  "1ATXYl3tP9tAT84c2qwZP0PXLDEchAHuY": "https://ibradeg.github.io/africadelice/img/img004.jpg",
+  "1kW1Keth8BUcNKpwqL3QHQuiOC6DjcnHc": "https://ibradeg.github.io/africadelice/img/img005.jpg",
+  "1d5h4tZl496u9Ht6rPPPrvwXlrFBbjWip": "https://ibradeg.github.io/africadelice/img/img006.jpg",
+  "1lgbmbtqDZXXYPh5z-mHWYnW77gG-pfoP": "https://ibradeg.github.io/africadelice/img/img007.jpg",
+  "1KN1Puxu7Xbu5O21_tYt2HA0nel1wZP7k": "https://ibradeg.github.io/africadelice/img/img008.jpg",
+  "1bWPRIkVVIMCe0pMScOd_N1ST8O_BzIJJ": "https://ibradeg.github.io/africadelice/img/img009.jpg",
+  "15UaUcrnDbxdXhkerH94EtHHDLgwgjuoZ": "https://ibradeg.github.io/africadelice/img/img010.jpg",
+  "1BCpOZbrs_Ju12CLzXPNO9Cbzi47pC190": "https://ibradeg.github.io/africadelice/img/img011.jpg",
+  "1KHO9PrhlysNwC4Ey1iWr6agCLNutZb3D": "https://ibradeg.github.io/africadelice/img/img012.jpg",
+  "1dOhspZPe4COpXX6QosZlldDKljsBPyrW": "https://ibradeg.github.io/africadelice/img/img013.jpg",
+  "1Wi5F5E0Vc7FKhZkRCeiFjzSez-WrrusV": "https://ibradeg.github.io/africadelice/img/img014.jpg",
+  "1LIbo_IEqBxNCD3yDD0mbMW_PxBzwUFs6": "https://ibradeg.github.io/africadelice/img/img015.jpg",
+  "1K5h4IG0aldKeEDGxROXQ9MWfxJhJImXB": "https://ibradeg.github.io/africadelice/img/img016.jpg",
+  "18W8lJtn4F9VUJrwUIrPuMy3DpVO73bzq": "https://ibradeg.github.io/africadelice/img/img017.jpg",
+  "1_hOhTlr_EQKmSAibhs2KySJpQA_ljKRP": "https://ibradeg.github.io/africadelice/img/img018.jpg",
+  "14lAirdQMEFCmhHg9c24_WoUZifsz28qb": "https://ibradeg.github.io/africadelice/img/img019.jpg",
+  "1UnxCXdhGPjU9Ld1NJOHtI-Zb1M2IHOFk": "https://ibradeg.github.io/africadelice/img/img020.jpg",
+  "1DxsB5OG1M3YC_EPESqnBwc3Sgj-nG5ID": "https://ibradeg.github.io/africadelice/img/img021.jpg",
+  "1S3jPj310SfIE9zXx9Dw--bsBIQK5u1tv": "https://ibradeg.github.io/africadelice/img/img022.jpg",
+  "1zHPWBcSxAF6jv0R6wLWLFx-21CUlPIZS": "https://ibradeg.github.io/africadelice/img/img023.jpg",
+  "19aMFGogZV8deGH05oA_bs2vxN7myshFy": "https://ibradeg.github.io/africadelice/img/img024.jpg",
+  "1sRVNFjLH44WSOytGZitcA4AcpH-ZQrnz": "https://ibradeg.github.io/africadelice/img/img025.jpg",
+  "1ZekG2edQv2YFRIk5rIdAP229A2AOeKYr": "https://ibradeg.github.io/africadelice/img/img026.jpg",
+  "18GJtjpfnJX5CNt0cHSpCF-l6MJhd9N4T": "https://ibradeg.github.io/africadelice/img/img027.jpg",
+  "1AR-KSmU0k5zXR4eYpC5aZfOdqrhqZhwU": "https://ibradeg.github.io/africadelice/img/img028.jpg",
+  "1_KRJ5tCvf6faBxryTyMrpBKJwflbsS7n": "https://ibradeg.github.io/africadelice/img/img029.jpg",
+  "10JJB3UpnGNfpGULZJtr8y8im12u9zEYV": "https://ibradeg.github.io/africadelice/img/img030.jpg",
+  "15sB6-PKB-fpmNQs1wyExdWJTCyDiYGGn": "https://ibradeg.github.io/africadelice/img/img031.jpg",
+  "1mGJB90RYdBGkkCHeUJJ82_e0IYWuKDu5": "https://ibradeg.github.io/africadelice/img/img032.jpg",
+  "1KWZ5ISYqY6SofTCVipZMB-mTMAcdOZkL": "https://ibradeg.github.io/africadelice/img/img033.jpg",
+  "1cxXdkWVPB9iWAq2eNrh9yEI-Wj0RPVLP": "https://ibradeg.github.io/africadelice/img/img034.jpg",
+  "1ALT8jAUsqQGnGXSvIXkUC4Y-NO-wf8YF": "https://ibradeg.github.io/africadelice/img/img035.jpg",
+  "1ZIVdHR4I41WJ74vngJmK4AGt4NE31KbS": "https://ibradeg.github.io/africadelice/img/img036.jpg",
+  "1DPic5LMS6kkqv1VsyNCqK6EPM9y_gFQ0": "https://ibradeg.github.io/africadelice/img/img037.jpg",
+  "1F0G2BUnD3LQzPeHU7s4Rjn4be2XDlYfT": "https://ibradeg.github.io/africadelice/img/img038.jpg",
+  "1yJuf1sS7aK4nd2bKopKufD-zy03-_2Kj": "https://ibradeg.github.io/africadelice/img/img039.jpg",
+  "12xl1H-kCGSwu8dyiBpPc-RMybKEpC4rn": "https://ibradeg.github.io/africadelice/img/img040.jpg",
+  "183k8GUJ2vui7TLHVF6W94wXDZqzGFzbw": "https://ibradeg.github.io/africadelice/img/img041.jpg",
+  "1sHQEulIi80Q2eEV9hOYkNKdZpk95K4Yy": "https://ibradeg.github.io/africadelice/img/img043.jpg",
+  "1DmRZSVXBnNasUTtbibP3PppVGUKiD3H-": "https://ibradeg.github.io/africadelice/img/img047.jpg",
+  "1jbc6Q_q5-76fD-r3Q_4AArnvxliUo3RO": "https://ibradeg.github.io/africadelice/img/img051.jpg",
+  "1CVQDDhUTFm-RUzquEaNx5GiPTc2eV5s_": "https://ibradeg.github.io/africadelice/img/img054.jpg",
+  "1xu1b_12LudaOGorNl1z_IT1kQe7BhYJw": "https://ibradeg.github.io/africadelice/img/img055.jpg",
+  "13Uf0XfV4Y91U43Dg18R5ASAcWA-RVjVk": "https://ibradeg.github.io/africadelice/img/img057.jpg",
+  "1foUu2QqMq37zGbtIa6JCmo9B7tV4NNSh": "https://ibradeg.github.io/africadelice/img/img058.jpg"
+};
+
+// Function to extract Google Drive ID from URL
+function extractDriveId(url) {
+  if (!url) return null;
+
+  // Match various Google Drive URL formats
+  const patterns = [
+    /drive\.google\.com\/.*[?&]id=([^&]+)/,
+    /drive\.google\.com\/file\/d\/([^\/\?]+)/,
+    /drive\.google\.com\/uc\?.*id=([^&]+)/
+  ];
+
+  for (const pattern of patterns) {
+    const match = url.match(pattern);
+    if (match) return match[1];
+  }
+
+  return null;
+}
+
+// Process all input items
+const items = $input.all();
+const updatedItems = [];
+
+for (const item of items) {
+  const newItem = { ...item };
+
+  // Check if item has json data with image_url
+  if (newItem.json && newItem.json.image_url) {
+    const imageUrl = newItem.json.image_url;
+
+    // Extract Drive ID from current URL
+    const driveId = extractDriveId(imageUrl);
+
+    // Replace with GitHub Pages URL if mapping exists
+    if (driveId && imageMapping[driveId]) {
+      newItem.json.image_url = imageMapping[driveId];
+      console.log(`Replaced: ${driveId} -> ${imageMapping[driveId]}`);
+    } else {
+      console.log(`No mapping found for: ${imageUrl}`);
+    }
+  }
+
+  updatedItems.push(newItem);
+}
+
+return updatedItems;
